@@ -1,0 +1,1 @@
+print(f"Binary Search: Found {target_value} at index {index}")
